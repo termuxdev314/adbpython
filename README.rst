@@ -1,31 +1,18 @@
-Projektname
-===========
+adbpython
+=========
 
-Kurze Beschreibung des Projekts hier.
+Python ADB Modul
 
-Installation
-------------
-
-Führen Sie folgenden Befehl aus, um das Projekt zu installieren:
+Install
+-------
 
 .. code-block:: bash
 
-    pip install Projektname
+   pip install adbpython
 
-Verwendung
-----------
-
-Beschreiben Sie hier, wie das Projekt verwendet wird. Geben Sie Beispiele und Anleitungen.
-
-Beispiel:
+use
+---
 
 .. code-block:: python
 
-    from Projektname import Modul
-
-    # Verwenden Sie das Modul hier
-
-Unterstützung
-------------
-
-Wenn Sie Probleme haben, können Sie gerne ein Problem im Issue-Tracker des Projekts melden: https://github.com/Benutzer/Projektname/issues
+   import adbpython as adb
