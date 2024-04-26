@@ -6,7 +6,7 @@ with open('README.rst', 'r', encoding='utf-8') as f:
 
 setup(
     name='adbpython',
-    version='0.2',
+    version='0.3',
     packages=find_packages(where='src'),
     package_dir={'': 'src'},
     install_requires=[],  # Fügen Sie hier erforderliche Abhängigkeiten hinzu
