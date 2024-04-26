@@ -104,3 +104,33 @@ def e():
   
 def f():
   keyevent(34)
+  
+def g():
+  keyevent(35)
+  
+def h():
+  keyevent(36)
+  
+def i():
+  keyevent(37)
+  
+def j():
+  keyevent(38)
+  
+def k():
+  keyevent(39)
+  
+def l():
+  keyevent(40)
+  
+def m():
+  keyevent(41)
+  
+def n():
+  keyevent(42)
+  
+def o():
+  keyevent(43)
+
+def p():
+  keyevent(44)
