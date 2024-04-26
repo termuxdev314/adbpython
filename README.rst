@@ -9,7 +9,7 @@ adbpython ist ein Python-Modul, das eine Schnittstelle zur Android Debug Bridge 
 Installation
 ------------
 
-Um adbpython zu installieren, führen Sie einfach `pip install adbpython` aus.
+Um adbpython zu installieren, führen Sie einfach pip install adbpython aus.
 
 Verwendung
 ----------

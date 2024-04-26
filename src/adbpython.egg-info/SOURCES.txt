@@ -1,3 +1,4 @@
+README.rst
 setup.py
 src/adbpython/__init__.py
 src/adbpython.egg-info/PKG-INFO
