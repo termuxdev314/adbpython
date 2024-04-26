@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: adbpython
-Version: 0.4
+Version: 0.5
 Description-Content-Type: text/x-rst
 
 adbpython
@@ -21,3 +21,7 @@ use
 .. code-block:: python
 
    import adbpython as adb
+   device = adb.connection
+   device.connect(ip, port)
+   shell = adb.shell
+   event = shell.keyevent 

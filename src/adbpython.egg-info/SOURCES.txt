@@ -5,6 +5,8 @@ src/adbpython.egg-info/PKG-INFO
 src/adbpython.egg-info/SOURCES.txt
 src/adbpython.egg-info/dependency_links.txt
 src/adbpython.egg-info/top_level.txt
+src/adbpython/adbcmd/__init__.py
+src/adbpython/adbcmd/adbcmd.py
 src/adbpython/connection/__init__.py
 src/adbpython/connection/connection.py
 src/adbpython/shell/__init__.py
